@@ -1,0 +1,26 @@
+ComboBoxen:
+In den ComboBoxen wird ausgewählt, in welcher Reihen-
+folge die verschiedenen Texte bis zum Trennzeichen stehen.
+(von oben nach unten ist im Editor von links nach rechts)
+Die unterste ComboBox, gibt an, auf welches Item für die
+Kartentypen geachtet werden soll
+
+TextBoxen:
+In den TextBoxen steht das Trennzeichen, das zwischen
+dem einen Text und dem nächsten Text ist.
+(Das Trennzeichen kann aus soweit bekannt allen utf-8
+Zeichen bestehen. Ebenso kann es aus einem oder
+ mehreren utf-8 Zeichen bestehen.)
+Achtung: Das Trennzeichen darf nicht im Text, der durch 
+das Trennzeichen als "zuende" markiert wird, vorkommen.
+
+CheckBoxen:
+In den CheckBoxen wird nur dann der Haken gesetzt, wenn
+es zum nächsten Text kein Trennzeichen gibt, weil der
+nächste Text durch ein Return in der nächsten Zeile
+weitergeht.
+
+Beispiel (*TR*=Trennzeichen, *CH* = CheckBox aktiviert):
+Text im Editor:			Eingabe in AnkiWriting:
+Deutsch_Japanisch		Deutsch*TR*Japanisch*CH*Kanji
+Kanji

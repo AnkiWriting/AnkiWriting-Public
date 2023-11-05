@@ -1,0 +1,19 @@
+Hier kann eingestellt werden, wie viele ComboBoxen existieren sollen. 
+Sowie, wie die einzelnen Auswahlmöglichkeiten der ComboBoxen benannt werden sollen.
+
+In der ComboBox unten, kann die Anzahl der ComboBoxen eingestellen werden.
+
+
+Im Textfeld das unten ist, kann die Bennung der Kartentypen eingegeben werden.
+Danach den Kartentyp per drücken auf den Button "Hinzufügen" hinzuzufügen.
+Der Button "Löschen", löscht den Text der sich im links befindente Textfeld befindet.
+
+
+Im Textfeld das unten ist, kann die Bennung der Auswahlmöglichkeiten eingegeben werden.
+Danach die Auswahlmöglichkeit per drücken auf den Button "Hinzufügen" hinzuzufügen.
+Der Button "Löschen", löscht den Text der sich im links befindente Textfeld befindet.
+
+
+In der sich unten befindenden ComboBoxen werden alle Auswahl- und Kartentypmöglichkeiten,
+die bereits / neu existieren angezeigt.
+Der Button "Löschen" rechts neben den ComboBoxen, löscht die ausgewählten Einträge aus den ComboBoxen.

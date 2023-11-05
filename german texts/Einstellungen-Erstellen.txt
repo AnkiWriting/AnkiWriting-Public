@@ -1,0 +1,1 @@
+Hier kann eingestellt werden, wie die Anki-Karte aussehen soll. Das umrandete Fenster, zeigt die Anki-Karte.

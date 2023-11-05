@@ -1,0 +1,20 @@
+Erstellen:
+Hier wird angegeben, wie die aktuelle ".txt" Datei, aus der Anki-Karten erstellt werden sollen, strukturiert ist
+
+Datei öffnen:
+Über diesen Button wird die Datei ausgewählt, aus der Anki-Karten erstellt werden sollen.
+
+Statistiken:
+In Statistiken wird ein Diagramm gezeigt, wie oft das Programm ausgeführt und wie viele Karten dabei erstellt wurden.
+
+Datei-Speicherort:
+Hier wird angegeben, wo die Datei, die später in Anki importiert wird, um die Anki-Karten zu erstellen, gespeichert wird.
+
+Einstellungen:
+	Hinzufügen: Dort können z.B. weitere Auswahlmöglichkeiten und ComboBoxen für "Erstellen" erzeugt werden.
+
+	Sprache: noch keine Funktion
+
+	Grafik: Hier kann die Farbe der Benutzeroberfläche geändert werden.
+
+	Erstellen: Dort wird das Anki-Karte-Design eingestellt.
