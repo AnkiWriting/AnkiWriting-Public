@@ -1,0 +1,12 @@
+3
+Kanji
+Hiragana/Katakana
+Wortart
+Deutsch
+.
+Verb
+Nomen
+Adjektiv
+Grammatik
+Aussage
+Adverb
